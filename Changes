@@ -1,0 +1,26 @@
+Revision history for DBIx-Diff-Schema
+
+0.04    2015-01-07 (PERLANCAR)
+
+        - Rename dist/module from DBIx-Diff-Struct to DBIx-Diff-Schema ("schema"
+          is the more common term in database parlance). Function name is also
+          changed from diff_db_{struct,schema}.
+
+
+0.03    2015-01-03 (PERLANCAR)
+
+	- No functional changes.
+
+	- Rebuild (Generate TODO.md).
+
+
+0.02    2014-09-12 (PERLANCAR)
+
+        - No functional changes.
+
+        - Rebuild with updated Dist::Zilla::Plugin::Rinci::Validate.
+
+
+0.01    2014-09-12 (PERLANCAR)
+
+        - First release.
